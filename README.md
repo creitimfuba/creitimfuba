@@ -1,5 +1,5 @@
 ![Clayton Tavares Dan — IA, dados e infraestrutura conectados para resolver problemas reais.](assets/capa.svg)
-
+ 
 ## Tecnologia por dentro. Soluções na prática.
 
 Sou **Clayton Tavares Dan**, também **ctdan**. Meu interesse por tecnologia vai além de usar uma ferramenta: gosto de entender como ela funciona, onde estão seus limites e como pode se conectar a outras peças para resolver um problema real. Entre infraestrutura, dados, automação e inteligência artificial, é nessa ligação entre sistemas que boa parte do meu trabalho acontece.
